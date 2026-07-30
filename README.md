@@ -33,3 +33,9 @@ You Get these files by going to %localappdata%\Pal\Saved\SaveGames followed by y
 
 
 More editors for different games coming soon!
+
+Credits
+
+Created by Ayden with contributions from CaptainStains, Poncho, Unknown, the PalworldSaveTools community, and community testers.
+
+Palworld and its assets are property of Pocketpair. This is an unofficial community project and is not affiliated with or endorsed by Pocketpair.
